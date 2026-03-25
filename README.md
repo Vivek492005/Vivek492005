@@ -92,8 +92,8 @@ I actively use GitHub to:
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: (Add your link here)  
-- 📧 Email: (Add your email here)  
+- 💼 LinkedIn: https://linkedin.com/in/vivek-bartwal-802435353
+- 📧 Email: vivekbartwal96@gmail.com  
 
 ---
 
