@@ -1,41 +1,102 @@
-# Hi, I'm Vivek 👋
+# 👋 Hi, I'm Vivek Bartwal
 
-🎓 **B.Tech (Engineering)** • 💻 **AI/ML & Systems Enthusiast**  
-📚 DBMS • OS • Computer Networks • NLP/CV • Full-Stack (React, Flask)
-
-- 🔭 Building: **AI Resume Analyzer & Job Recommender**, **Voice-Driven OS Assistant**, **AgroSense (Smart Farming DB)**
-- 🌱 Learning: Advanced SQL/Oracle, OS internals, CN protocols
-- 🎯 2025 Goals: Open-source contributions + hackathon podiums
-- 💬 Ask me about: **Python, Java, SQL, ML pipelines, system design (student level)**
+🎓 B.Tech Student | 💻 Aspiring Software Engineer  
+🚀 Passionate about AI, Machine Learning & Full Stack Development  
+🌟 Building real-world intelligent systems with impactful solutions  
 
 ---
 
-## 🛠️ Tech Stack
-**Languages:** C, C++, Java, Python, SQL  
-**Frameworks/Libraries:** React, Flask, TensorFlow, scikit-learn  
-**Databases:** MySQL, Oracle, MongoDB  
-**Tools:** Git, GitHub Actions, Docker, Linux, VS Code
+## 🧠 About Me
+
+I am a highly motivated engineering student focused on developing strong foundations in software development and intelligent systems. I enjoy solving real-world problems by integrating multiple technologies such as Machine Learning, Web Development, and System Design.
+
+My work reflects a blend of creativity and technical depth — from AI-powered resume analysis to smart farming advisory systems. I believe in continuous learning, hands-on implementation, and building projects that demonstrate real engineering skills rather than just theoretical knowledge.
 
 ---
 
-## 📌 Featured Projects
-- **AI Resume Analyzer & Job Recommender** – NLP + ML job fit scoring, rewrite & suggestions  
-  Repo: [Link](#) • Tech: Python, scikit-learn, Flask, PostgreSQL/MySQL
-- **Voice-Driven OS Control Assistant** – System control via voice, hotkeys, automation  
-  Repo: [Link](#) • Tech: Python, SpeechRecognition, PyAutoGUI
-- **AgroSense – Smart Farming DB** – Crop advisory, farm logs, analytics dashboards  
-  Repo: [Link](#) • Tech: SQL, ERD, Triggers, Views, React (UI optional)
+## 🎯 What I Am Currently Working On
+
+- 🔍 Deepening my understanding of **Machine Learning Algorithms & System Design**
+- 🤖 Building AI-powered applications with real-world use cases  
+- 🌐 Enhancing my skills in **Full Stack Development**
+- 📊 Exploring data-driven decision systems and automation  
 
 ---
 
-## 📊 GitHub Stats
-![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact)
+## 🚀 Featured Projects
 
-<!-- 🐍 add snake (Step 6) -->
-<!-- ![snake gif](https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake.svg) -->
+### 🔹 AI Resume Analyzer & Job Recommender
+A smart system that analyzes resumes using NLP and ML techniques to evaluate candidate profiles and recommend suitable job roles.
+- Resume parsing using NLP  
+- Skill-role matching using ML models  
+- Intelligent feedback and suggestions  
 
 ---
 
-## 🌐 Connect
-[LinkedIn](#) • [Portfolio](#) • [Email](mailto:your_email@example.com)
+### 🌾 AgroSense – Smart Farming Advisory System
+An advanced AI-based agriculture system designed to assist farmers with crop recommendations, disease detection, and soil analysis.
+- Plant disease detection using Deep Learning  
+- Soil and crop prediction models  
+- Integration of weather and environmental data  
+
+---
+
+### 🎙️ Voice-Controlled OS Assistant
+A system-level automation tool that allows users to control their operating system using voice commands.
+- Voice recognition and command execution  
+- OS-level automation and task control  
+- Real-time response system  
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 💻 Programming Languages
+- C, C++, Java, Python  
+
+### 🌐 Web Development
+- HTML, CSS, JavaScript  
+
+### 📊 Databases
+- MySQL  
+
+### 🤖 AI/ML
+- Machine Learning (Supervised & Unsupervised Learning)  
+- Basic Deep Learning & NLP  
+
+### 🧰 Tools & Platforms
+- Git & GitHub  
+- VS Code  
+- Jupyter Notebook  
+
+---
+
+## 📈 GitHub Activity
+
+I actively use GitHub to:
+- 📌 Document my learning journey  
+- 🛠️ Build and improve projects  
+- 🔁 Maintain consistent contributions  
+- 📂 Organize structured and professional repositories  
+
+---
+
+## 🎯 Career Goals
+
+- Become a highly skilled Software Engineer  
+- Build scalable and impactful AI-driven systems  
+- Contribute to top tech companies like Amazon, Google, or innovative startups  
+- Continuously grow in the field of AI, ML, and system design  
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: (Add your link here)  
+- 📧 Email: (Add your email here)  
+
+---
+
+## ⚡ Fun Fact
+
+I don’t just learn technologies — I build with them to solve real-world problems 🚀
